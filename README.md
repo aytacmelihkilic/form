@@ -5,6 +5,7 @@ Bu uygulama sayesinde, kullanıcılar kendi Supabase hesaplarını bağlayarak k
 Projenin ana özellikleri:
 
 Kendi Hesabınızı Bağlama: Kullanıcılar, kendi Supabase hesaplarını bağlayarak verilerini güvenle saklayabilirler.
+
 Kolay Özelleştirme: Uygulama, kullanıcıların ihtiyaçlarına göre formları kolayca tasarlamalarına olanak tanır.
 Kendi Form Platformunuzu Yaratın: Bu proje, yalnızca bir form oluşturma aracı değil, aynı zamanda kendi bağımsız form platformunuzu kurma imkanı sunar.
 Bu proje, hem bireysel kullanıcılar hem de küçük işletmeler için maliyet verimliliği ve esneklik sunar. Özellikle, Google Forms gibi üçüncü taraf hizmetlere bağımlı kalmadan, kendi verilerinizi yönetebileceğiniz ve saklayabileceğiniz bir çözüm sunmayı hedefliyor.
